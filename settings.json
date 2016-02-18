@@ -1,7 +1,0 @@
-{
-  "__comment": "config mapbox, then delete this. mapbox.com/help/define-access-token",
-  "public": {
-    "accessToken": "your_mapbox_token_here",
-    "mapId": "your_mapID.here"
-  }
-}
