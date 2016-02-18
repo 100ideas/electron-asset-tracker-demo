@@ -1,0 +1,6 @@
+{
+  "public": {
+    "accessToken": "get your access token from mapbox.com/studio",
+    "mapId": "mapbox.light"
+  }
+}
